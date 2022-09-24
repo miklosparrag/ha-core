@@ -1,0 +1,13 @@
+{
+  "domain": "rippleenergy",
+  "name": "ripple",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/rippleenergy",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@miklosparrag"],
+  "iot_class": "cloud_polling"
+}

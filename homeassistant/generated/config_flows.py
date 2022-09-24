@@ -314,6 +314,7 @@ FLOWS = {
         "rhasspy",
         "ridwell",
         "ring",
+        "rippleenergy",
         "risco",
         "rituals_perfume_genie",
         "roku",
